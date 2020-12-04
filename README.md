@@ -10,6 +10,6 @@
 ### Yêu cầu 2 
 ![Giao diện bảng nhập Khác Hàng](/media/14.PNG)
 ![Giao diện bảng nhập Sản Phẩm](/media/16.PNG)
-![Giao diện bảng nhập Somee](/media/16.PNG)
+![Giao diện giao diện Somee](/media/25.PNG)
 ### Yêu Cầu 3
 ![Source code, file docx, User_Info khi đã up lên github](/media/42.PNG)
