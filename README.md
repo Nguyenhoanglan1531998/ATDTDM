@@ -12,4 +12,4 @@
 ![Giao diện bảng nhập Sản Phẩm](/media/16.PNG)
 ![Giao diện giao diện Somee](/media/25.PNG)
 ### Yêu Cầu 3
-![Source code, file docx, User_Info khi đã up lên github](/media/42.PNG)
+![Source code, file docx, User_Info khi đã up lên github](/media/30.PNG)
